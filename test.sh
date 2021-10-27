@@ -7,3 +7,4 @@ then
 else 
 	"echo B is Greater the A"
 fi
+echo "Program is Over"
