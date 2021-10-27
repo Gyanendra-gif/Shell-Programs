@@ -8,3 +8,5 @@ else
 	"echo B is Greater the A"
 fi
 echo "Program is Over"
+echo "1 st Program is Over"
+
